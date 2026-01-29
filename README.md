@@ -3,8 +3,12 @@
 
 A production-ready FastAPI backend that automatically discovers publicly available office phone numbers of NGOs using web crawling and search-based domain discovery.
 The system includes confidence scoring, structured logging, and batch CSV processing, and is deployed with live Swagger documentation.
+
 📌Live API:
+
         https://ngo-phone-discoveryapi.onrender.com
+
+        
 🚀 Features
 
     🔍 Automatic discovery of NGO websites using search-based heuristics
