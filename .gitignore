@@ -1,0 +1,8 @@
+venv/
+.idea/
+__pycache__/
+*.pyc
+.env
+api.log
+ngo_phone_results.csv
+ngo-data-darpan-*.csv
